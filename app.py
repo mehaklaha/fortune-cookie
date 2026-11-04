@@ -10,6 +10,9 @@ FORTUNES = [
     "A great opportunity hides inside a merge conflict.",
     "You will drink chai and solve the problem.",
     "Today is a good day to deploy. (Not Friday, though.)",
+    "Your code will compile on the first try. Enjoy it.",
+    "A cup of chai is the best debugger.",
+    "The tests you write today will thank you tomorrow.",
 ]
 
 PAGE = """
